@@ -1,21 +1,7 @@
-## Hi there 👋
-
-<!--
-**acodewan/acodewan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ## Summary
+
+iOS engineer focused on native app and framework architecture. Passionate about crafting complex UX and seamless CI/CD. When I'm not in Xcode, dabble in Node.js and JavaScript.
+##
 
 ## Portfolio
 
@@ -28,5 +14,7 @@ The keyboard reads photos from your library on your device. It does not upload y
 • Your photo library in a scrollable grid, newest photos first. • A preview confirmation after each copy, so you can see what is on the clipboard. • The original photo data in its original format, not a compressed screenshot. • A grid that adapts from iPhone to iPad. • No account, no sign-up, and no server. • An interface that follows your system appearance. Photo keyboard for iPhone and iPad
 
 • Requires iOS or iPadOS 16 or later. • The keyboard needs Full Access and photo library access to work. • Pasting depends on the app you are using; some apps accept images and others do not.
+
+<img width="1512" height="949" alt="photo_keyboard_20261116_1" src="https://github.com/user-attachments/assets/1aba7626-ee0d-47b2-9572-f66b9de84b5d" />
 
 ##
