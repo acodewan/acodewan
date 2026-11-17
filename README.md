@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Summary
+## Summary
 
-### Portfolio
+## Portfolio
 
-**Photo keyboard for iPhone and iPad**
+### Photo keyboard for iPhone and iPad
 
 Photo Keyboard is a custom keyboard for iPhone and iPad that puts your photo library one tap away. Instead of leaving a conversation to find a picture and share it, you open the keyboard, tap the photo you want, and paste it into the message, email, or note you are already writing. There is no account and no server: photos are read from your library on the device, copied to the clipboard, and left there for you to paste. It is a simple utility for people who send photos often and want to stay in the flow of writing.
