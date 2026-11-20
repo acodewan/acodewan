@@ -23,7 +23,14 @@ The keyboard reads photos from your library on your device. It does not upload y
 
 A set of iOS social apps for sharing photos and moments with friends, groups and followers. They share three core screens: a feed of posts with reactions and comments, a create flow for sharing media and one-to-one and group chat. One app keeps photo quality intact when sending, another places time-limited media.
 
-<img width="2760" height="1880" alt="feed_create_chat_screens" src="https://github.com/user-attachments/assets/3789abda-5ed9-43e9-9698-990a20c73c56" />
+Send photos to friends or event groups and see what everyone is posting in your feed:
+* Share photos with friends, followers and groups, and react to and comment on posts.
+* Chat one-to-one or in groups, with unread badges and the option to edit or delete your messages.
+* Create groups with admins and invitations and set group-only or public posts.
+* Choose which notifications you get.
+* You choose who sees each post: everyone, followers and friends or private.
+
+<img width="2720" height="1840" alt="feed_create_chat_screens" src="https://github.com/user-attachments/assets/af719d53-187f-4271-bf6e-a8e513efbbec" />
 
 ##
 
