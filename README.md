@@ -19,6 +19,14 @@ The keyboard reads photos from your library on your device. It does not upload y
 
 ##
 
+### Social media-sharing apps
+
+A set of iOS social apps for sharing photos and moments with friends, groups and followers. They share three core screens: a feed of posts with reactions and comments, a create flow for sharing media and one-to-one and group chat. One app keeps photo quality intact when sending, another places time-limited media.
+
+<img width="2760" height="1880" alt="feed_create_chat_screens" src="https://github.com/user-attachments/assets/3789abda-5ed9-43e9-9698-990a20c73c56" />
+
+##
+
 ### Street mapping app
 
 Cities change every day and keeping street data fresh takes people on the road. This app is built for drivers and help keep it up to date.
